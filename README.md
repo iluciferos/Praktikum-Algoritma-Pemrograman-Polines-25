@@ -1,6 +1,8 @@
-# Praktikum-Algoritma-Pemrograman-Polines-25
-# Nama   : Victor Abdiel Kurniawan Rares
-# NIM    : 43325025
-# Jurusan: Elektro
-# Prodi  : Teknologi Rekayasa Komputer
-# Kelas  : TI-1A
+# Praktikum Algoritma Pemrograman Polines'25
+<p>Nama   : Victor Abdiel Kurniawan Rares</p>
+<p>NIM    : 43325025<p>
+<p>Jurusan: Elektro<p>
+<p>Prodi  : Teknologi Rekayasa Komputer<p>
+<p>Kelas  : TI-1A<p>
+<br>
+<p>Untuk setiap Jobsheet di upload di Branch yang berbeda</p>
